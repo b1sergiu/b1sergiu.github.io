@@ -1,0 +1,28 @@
+<package>
+	<id>com.chrizk0.xplane</id>
+	<name>X-Plane 10 Crack</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>9.0</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Crack by Chrizk0.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No screenshots yet.</description>
+		</screenshot>				
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
