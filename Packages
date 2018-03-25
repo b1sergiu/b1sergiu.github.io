@@ -18,7 +18,7 @@ Section: Hacks
 Maintainer: ZahirSher <unknown@domain.com>
 Depends: firmware (<7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Filename: ./debs/trueskate.deb
 Size: 3796
 MD5sum:
 Description: Unlimited True Credits
