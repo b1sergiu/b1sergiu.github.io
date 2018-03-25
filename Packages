@@ -1,5 +1,5 @@
 Package: com.chrizk0.xplane
-Version: 2.0.0-1
+Version: 1.0
 Section: Cracks
 Maintainer: Chrizk0 <unknown@domain.com>
 Depends: firmware (<9.0), mobilesubstrate
@@ -10,7 +10,7 @@ MD5sum:
 Description: Crack for X-Plane 10. For iOS 9 and under.
 Name: X-Plane 10 Crack
 Author: Chrizk0 <unknown@domain.com>
-Depiction: ./depictions/?p=com.chrizk0.xplane
+Depiction: https://b1sergiu.github.io/depictions/?p=com.chrizk0.xplane
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
