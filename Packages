@@ -2,7 +2,7 @@ Package: com.chrizk0.xplane
 Version: 1.0
 Section: Cracks
 Maintainer: Chrizk0 <unknown@domain.com>
-Depends: firmware (<9.0), mobilesubstrate
+Depends: firmware (<9.3.5), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/xplane10.deb
 Size: 57058
@@ -16,7 +16,7 @@ Package: com.zahirsher.trueskate
 Version: 1.0
 Section: Hacks
 Maintainer: ZahirSher <unknown@domain.com>
-Depends: firmware (<7.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/trueskate.deb
 Size: 3796
